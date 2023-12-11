@@ -1,0 +1,27 @@
+{
+    "0": [
+        "butterfinger", "hersheys_milk_chocolate", "kind_chocolate_nuts_sea_salt_mini", "kitkat", "luna_lemonzest",
+        "mentos_fruit", "milky way", "m n m", "m n m peanuts", "nature valley crunchy oats n honey",
+        "nature valley sweet and salty granola bars almond", "pepperidge_farm_milano_dark_chocolate",
+        "planters_honey_roasted_peanuts", "reeses", "skittles", "snickers", "sour patch", "Twix"
+    ],
+    "1": [
+        "alexander_valley_cabernet", "caposaldo_prosecco", "coke_original", "community_espresso_cream",
+        "core_hydration_water", "dr_pepper_bottle", "duckhorn_chardonnay", "fiji_artesian_water",
+        "joel_gott_sauvignon_blanc", "lunetta_prosecco", "napa_chardonnay", "natura_chardonnay", "sprite_bottle",
+        "starbucks_frappuccino_mocha", "tropicana_orange_juice"
+    ],
+    "2": [
+        "budweiser", "michelob_ultra", "monster_energy", "monster_energy_ultra_blue", "monster_energy_ultra_red",
+        "red_bull", "red_bull_sugarfree", "taylor_fladgate_chip_dry_tonic", "v8_original_100%_vegetable_juice",
+        "white_claw"
+    ],
+    "3": [
+        "cheez_it_original", "chips_ahoy_original_2_cookie", "doritos_cool_ranch", "doritos_nacho_cheese",
+        "famous_amos_chocolate_chip", "fritos_original", "halls_relief", "halls_relief_honey_lemon",
+        "hotpockets_pepperoni_pizza", "jack_links_beef_jerky_original", "jack_links_beef_tender_bites_teriyaki",
+        "lays_barbecue", "lays_classic", "lays_salt_vinegar", "lays_sour_cream_n_onion", "lays_wavy_original",
+        "nabisco_chips_ahoy_original", "nabisco_nutter_butter", "nabisco_oreo", "oreo_2_cookie", "oreo_mini",
+        "oreo_mini_golden", "ruffles_original"
+    ]
+}
